@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	color: #050505;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td height="49" bgcolor="#723233"><table width="100%">
+        <tbody>
+          <tr>
+            <td height="82" align="center"><img src="../imagenes/LOGO YUUMY CAKE.png" width="100" height="100" alt=""/></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FFFFFF"><a href="../INICIO.html">INICIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../OBJETIVO.html">OBJETIVO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../PRODUCTOS.html">PRUDUCTOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../HORARIOS.html">HORARIOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../CONTACTOS.html">CONTACTO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="center"><!-- TemplateBeginEditable name="CONTENIDO" --><!-- TemplateEndEditable --></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
